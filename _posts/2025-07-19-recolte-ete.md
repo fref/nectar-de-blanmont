@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Récolte d'Eté - 2025"
 date: 2025-07-19
 categories: summer-harvest
